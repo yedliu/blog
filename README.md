@@ -1,2 +1,4 @@
 # blog
-self blog
+npm install
+
+npm start
